@@ -1,0 +1,25 @@
+
+@font-face {
+    font-family: 'Orbitron';
+    src: url('/fonts/Orbitron-Regular.eot');
+    src: url('/fonts/Orbitron-Regular.eot?#iefix') format('embedded-opentype'),
+        url('/fonts/Orbitron-Regular.woff') format('woff'),
+        url('/fonts/Orbitron-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+
+body {
+    background-color: #000;
+    color: #fff;
+}
+
+.time  {
+    font-size: 80px;
+    font-family: 'Orbitron';
+    color: #f00;
+    text-shadow: 0px 0px 10px #fc5555;
+}
