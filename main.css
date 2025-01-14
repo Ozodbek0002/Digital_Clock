@@ -1,16 +1,14 @@
 
 @font-face {
     font-family: 'Orbitron';
-    src: url('/fonts/Orbitron-Regular.eot');
-    src: url('/fonts/Orbitron-Regular.eot?#iefix') format('embedded-opentype'),
-        url('/fonts/Orbitron-Regular.woff') format('woff'),
-        url('/fonts/Orbitron-Regular.ttf') format('truetype');
+    src: url('fonts/Orbitron-Regular.eot');
+    src: url('fonts/Orbitron-Regular.eot?#iefix') format('embedded-opentype'),
+        url('fonts/Orbitron-Regular.woff') format('woff'),
+        url('fonts/Orbitron-Regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
-
-
 
 body {
     background-color: #000;
